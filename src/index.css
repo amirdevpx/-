@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-montserrat font-medium text-base
+  }
+
+  input {
+    @apply outline-none
+  }
+}

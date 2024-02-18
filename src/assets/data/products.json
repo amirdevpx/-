@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. V1»",
+        "rating": 4,
+        "price": 149.99,
+        "purchased": true,
+        "discount": 5,
+        "createAt": "07.02.2024",
+        "image": "http://localhost:5173/src/assets/images/product-image-1.png"
+    },
+    {
+        "id": 2,
+        "title": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. V2»",
+        "rating": 5,
+        "price": 149.99,
+        "purchased": false,
+        "discount": 0,
+        "createAt": "08.02.2024",
+        "image": "http://localhost:5173/src/assets/images/product-image-2.png"
+    },
+    {
+        "id": 3,
+        "title": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. V3»",
+        "rating": 3,
+        "price": 149.99,
+        "purchased": false,
+        "discount": 10,
+        "createAt": "09.02.2024",
+        "image": "http://localhost:5173/src/assets/images/product-image-3.png"
+    },
+    {
+        "id": 4,
+        "title": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. V4»",
+        "rating": 4,
+        "price": 149.99,
+        "purchased": true,
+        "discount": 0,
+        "createAt": "10.02.2024",
+        "image": "http://localhost:5173/src/assets/images/product-image-4.png"
+    },
+    {
+        "id": 5,
+        "title": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. V5»",
+        "rating": 2,
+        "price": 149.99,
+        "purchased": false,
+        "discount": 20,
+        "createAt": "11.02.2024",
+        "image": "http://localhost:5173/src/assets/images/product-image-5.png"
+    },
+    {
+        "id": 6,
+        "title": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. V6»",
+        "rating": 5,
+        "price": 149.99,
+        "purchased": true,
+        "discount": 30,
+        "createAt": "12.02.2024",
+        "image": "http://localhost:5173/src/assets/images/product-image-1.png"
+    },
+    {
+        "id": 7,
+        "title": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. V7»",
+        "rating": 4,
+        "price": 149.99,
+        "purchased": true,
+        "discount": 0,
+        "createAt": "13.02.2024",
+        "image": "http://localhost:5173/src/assets/images/product-image-2.png"
+    },
+    {
+        "id": 8,
+        "title": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. V8»",
+        "rating": 4,
+        "price": 149.99,
+        "purchased": false,
+        "discount": 0,
+        "createAt": "14.02.2024",
+        "image": "http://localhost:5173/src/assets/images/product-image-3.png"
+    },
+    {
+        "id": 9,
+        "title": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. V9»",
+        "rating": 3,
+        "price": 149.99,
+        "purchased": true,
+        "discount": 0,
+        "createAt": "15.02.2024",
+        "image": "http://localhost:5173/src/assets/images/product-image-4.png"
+    },
+    {
+        "id": 10,
+        "title": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12. V10»",
+        "rating": 4,
+        "price": 149.99,
+        "purchased": false,
+        "discount": 15,
+        "createAt": "15.02.2024",
+        "image": "http://localhost:5173/src/assets/images/product-image-5.png"
+    }
+]
